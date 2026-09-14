@@ -93,8 +93,8 @@ SoftwareBrio/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/lead-enrichment-agent.git
-cd lead-enrichment-agent
+git clone https://github.com/faizan-7890/SoftwareBrio-Assignement.git
+cd SoftwareBrio-Assignement
 ```
 
 ### 3. Create and Activate Virtual Environment
