@@ -44,7 +44,7 @@
         "https://www.postman.com/company/contact-sales",
         "https://postman.com/company/careers"
       ],
-      "enrichment_timestamp": "2026-09-14T18:38:10.831829+00:00",
+      "enrichment_timestamp": "2026-09-14T21:20:31.905016+00:00",
       "error": null
     },
     {
@@ -86,7 +86,7 @@
         "https://supabase.com/contact/sales",
         "https://supabase.com/company"
       ],
-      "enrichment_timestamp": "2026-09-14T18:38:57.495326+00:00",
+      "enrichment_timestamp": "2026-09-14T21:21:13.370195+00:00",
       "error": null
     },
     {
@@ -116,16 +116,16 @@
         "https://vapi.ai",
         "https://vapi.ai/pricing"
       ],
-      "enrichment_timestamp": "2026-09-14T18:39:20.352448+00:00",
+      "enrichment_timestamp": "2026-09-14T21:21:34.840171+00:00",
       "error": null
     }
   ],
   "total_domains": 3,
   "successful_domains": 3,
   "failed_domains": 0,
-  "total_prompt_tokens": 7888,
+  "total_prompt_tokens": 8305,
   "total_completion_tokens": 840,
-  "total_tokens": 8728,
+  "total_tokens": 9145,
   "estimated_cost_usd": 0.0,
-  "execution_time_seconds": 135.83
+  "execution_time_seconds": 122.43
 }

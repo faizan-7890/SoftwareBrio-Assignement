@@ -71,6 +71,7 @@ SoftwareBrio/
 │   ├── __init__.py
 │   └── schema.py              # Pydantic schemas (CompanyEnrichmentData, LeadershipMember, etc.)
 ├── tests/
+│   ├── __init__.py
 │   ├── test_cleaner.py        # Unit tests for DOM stripping and email sanitization
 │   ├── test_models.py         # Unit tests for schema validation and confidence score bounds
 │   └── test_pipeline.py       # Integration tests for discovery, pricing, and error resilience
@@ -198,7 +199,7 @@ Below is an overview of the intelligence extracted from running against the 3 ta
 
 ## 🎥 Loom Screen Recording
 
-A detailed, timed 2-to-3 minute video walkthrough script has been prepared in [LOOM_SCRIPT.md](file:///c:/Users/Faizan%20J/SoftwareBrio/LOOM_SCRIPT.md) to record the Loom video demonstrating:
+A detailed, timed 2-to-3 minute video walkthrough script has been prepared in [`LOOM_SCRIPT.md`](LOOM_SCRIPT.md) to record the Loom video demonstrating:
 1. Operational commitment (40% manual / 60% AI engineering).
 2. Codebase architecture walkthrough (`crawler/`, `preprocessing/`, `models/`, `llm/`).
 3. Running `main.py` in the terminal live.
