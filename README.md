@@ -15,8 +15,8 @@ An autonomous, production-ready Python agent and pipeline that accepts company d
 ---
 
 ## 🎯 Eligibility Confirmation
-- **Target Audience:** Confirmed. I am a student / fresh graduate meeting the eligibility criteria.
-- **Experience Level:** No prior full-time software engineering roles.
+- **Target Audience:** Confirmed. I am Faizan J, a fresh graduate (Batch 2023–2026, Class of 2026) meeting the eligibility criteria.
+- **Experience Level:** No prior full-time software engineering experience. This submission is for entry-level intern evaluation.
 
 ---
 
